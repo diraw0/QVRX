@@ -1,23 +1,15 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: Primer post
-author: QVRX
+title: Whats is QVRX?
+author: SysAdmin
 ---
 
-## Bienvenido a QVRX
+This first entry establishes the editorial direction of QVRX.
 
-Esto **no es un blog común**.
+QVRX is built as a technical blog with a clear objective: to document knowledge, systems, and reasoning processes in a structured and verifiable way. The platform does not aim to entertain, persuade, or follow trends. Its purpose is to record analysis, experimentation, and conclusions derived from direct work with technology.
 
-No hay panel.  
-No hay base de datos.  
-No hay distracciones.
+Content published here will focus on software systems, infrastructure, information security, and related disciplines. When opinions are expressed, they are grounded in practical experience and supported by technical context. Speculation, when present, is explicitly identified as such.
 
-El contenido vive en Git.  
-La estética es intencional.  
-El ruido queda afuera.
+QVRX prioritizes clarity over volume. Posts are written to be readable, reproducible, and useful over time. There is no emphasis on frequency of publication, only on the relevance and accuracy of what is published.
 
-### Principios
-
-- Texto primero
-- Bordes rojos
-- Control total
+This project exists as a long-term archive of work and thought, intended to remain understandable and technically valid beyond immediate circumstances.
