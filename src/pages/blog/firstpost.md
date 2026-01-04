@@ -2,6 +2,7 @@
 layout: ../../layouts/BaseLayout.astro
 title: Whats is QVRX?
 author: SysAdmin
+date: 2026-01-1
 ---
 
 # QVRX
