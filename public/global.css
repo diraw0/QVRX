@@ -71,7 +71,6 @@ body {
   color: var(--muted);
 }
 
-/* MARKDOWN STYLES — CLAVE */
 
 article, .container > :not(header):not(section) {
   line-height: 1.7;
@@ -96,8 +95,20 @@ li {
 
 footer {
   display: flex;
-  justify-content: center; /* centro horizontal */
-  align-items: center;     /* centro vertical */
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
   text-align: center;
 }
+
+footer .brand {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+footer .copyright {
+  font-size: 0.7rem;
+  color: #888; 
+}
+
 
