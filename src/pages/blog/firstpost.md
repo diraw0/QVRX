@@ -4,7 +4,7 @@ title: Whats is QVRX?
 author: SysAdmin
 ---
 
-#QVRX
+# QVRX
 
 This first entry establishes the editorial direction of QVRX.
 
