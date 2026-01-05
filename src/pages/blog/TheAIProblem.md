@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: OPSEC in the Modern Era
+title: The AI Problem
 author: SysAdmin
 date: 2026-01-4
 ---
